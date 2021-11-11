@@ -1,1 +1,14 @@
 # bot_shopee_flash_sale
+SCRIPT IMACRO BOT FLASH SALE
+
+CARA MENGGUNAKANNYA
+
+DOWNLOAD EKSTENSION IMACRO https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp
+OPEN IMACRO
+KLIK RECORD DAN STOP RECORD
+EDIT MACRO
+COPY SCRIPT IMACRO YANG ADA DI SCRIPT https://github.com/bagasstr/bot_shopee_flash_sale_imacro/blob/d4419309bbef75c686f958b92af929533b4231c7/script
+PASTE KE EDIT MACRO
+KLIK SAVE & CLOSE
+KLIK PLAY
+NOTE GANTI ALAMAT URL PRODUK FLASH SALE DI SCRIPT BAGIAN URL GOTO / LINE 4
