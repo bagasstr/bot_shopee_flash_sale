@@ -1,6 +1,6 @@
 WAIT SECONDS=500
 TAB T=1
-URL GOTO=https://shopee.co.id/JBL-T450-Foldable-Wired-On-Ear-Headphones-Headset-with-Mic-Garansi-Resmi-i.26968895.1432546008
+URL GOTO=("paste link barang shopee")
 TAG POS=1 TYPE=BUTTON ATTR=TXT:Beli<SP>Sekarang
 TAG POS=1 TYPE=BUTTON ATTR=TXT:Checkout
 WAIT SECONDS=1
